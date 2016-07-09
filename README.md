@@ -18,3 +18,5 @@ Simple 555 astable circuit.  Cribbed mercilessly.
 [Programming an ATtiny w/ Arduino 1.6](http://highlowtech.org/?p=1695)
 
 [LED Resistor Calculator](http://led.linear1.org/1led.wiz)
+
+[3D KiCAD Parts tutorial](http://happyrobotlabs.com/posts/tutorials/tutorial-3d-kicad-parts-using-openscad-and-wings3d/)
