@@ -135,7 +135,7 @@
       (net 2 GND))
     (pad 1 thru_hole circle (at 10.8 0 180) (size 4 4) (drill 2) (layers *.Cu *.Mask B.SilkS)
       (net 1 VCC))
-    (model "/Users/kbob/Documents/Making/Blink Eras/FreeCAD/BK-913.wrl"
+    (model "${KIPRJMOD}/../FreeCAD/BK-913.wrl"
       (at (xyz 0 0 0.161417))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
