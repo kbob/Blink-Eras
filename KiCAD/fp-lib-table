@@ -1,4 +1,3 @@
 (fp_lib_table
   (lib (name BlinkyFeet)(type KiCad)(uri "$(KIPRJMOD)/BlinkyFeet.pretty")(options "")(descr ""))
-  (lib (name w_battery_holders)(type KiCad)(uri /Users/kbob/Downloads/mod_battery_holders/w_battery_holders.pretty)(options "")(descr ""))
 )
