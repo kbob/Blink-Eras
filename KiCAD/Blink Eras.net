@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/Users/kbob/Documents/Making/Blink Eras/KiCAD/Blink Eras.sch")
-    (date "Saturday, July 09, 2016 'PMt' 09:18:51 PM")
+    (date "Sunday, July 10, 2016 'AMt' 10:42:48 AM")
     (tool "Eeschema 4.0.2-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -41,7 +41,7 @@
       (tstamp 577D4CA0))
     (comp (ref P1)
       (value ISP)
-      (footprint Pin_Headers:Pin_Header_Straight_2x03)
+      (footprint BlinkyFeet:ISP_Pogo_3-thru)
       (libsource (lib conn) (part CONN_02X03))
       (sheetpath (names /) (tstamps /))
       (tstamp 577D50F2))
@@ -185,14 +185,14 @@
         (pin (num 1) (name ~) (type passive))
         (pin (num 2) (name ~) (type passive)))))
   (libraries
-    (library (logical conn)
-      (uri "/Library/Application Support/kicad/library/conn.lib"))
     (library (logical BlinkLib)
       (uri "/Users/kbob/Documents/Making/Blink Eras/KiCAD/BlinkLib.lib"))
+    (library (logical device)
+      (uri "/Library/Application Support/kicad/library/device.lib"))
     (library (logical atmel)
       (uri "/Library/Application Support/kicad/library/atmel.lib"))
-    (library (logical device)
-      (uri "/Library/Application Support/kicad/library/device.lib")))
+    (library (logical conn)
+      (uri "/Library/Application Support/kicad/library/conn.lib")))
   (nets
     (net (code 1) (name "Net-(C1-Pad1)")
       (node (ref U1) (pin 2))
