@@ -20,3 +20,5 @@ Simple 555 astable circuit.  Cribbed mercilessly.
 [LED Resistor Calculator](http://led.linear1.org/1led.wiz)
 
 [3D KiCAD Parts tutorial](http://happyrobotlabs.com/posts/tutorials/tutorial-3d-kicad-parts-using-openscad-and-wings3d/)
+
+[KiCAD graphics tutorial](http://blog.komar.be/making-pcb-artwork-in-kicad/)
