@@ -5,6 +5,9 @@ Blinking an LED as it was done in the 1970s (555) and the 1990s (AVR).
 I am using this project to learn KiCAD and SMT fabrication.  Also
 learning to use pogo pins to flash a microcontroller.
 
+![KiCAD has a 3D viewer.](spin.gif)
+
+
 # Resources
 
 [Getting to Blinky 4.0](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q)
