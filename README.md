@@ -28,6 +28,13 @@ modeled a pogo pin, and designed a jig around them.
 
 The [Fusion 360 model is here](http://a360.co/2aq1vVH).  
 
+If I did it again, I would do it very differently.  I think I would
+flip the jig over so the board sits on top, with some kind of latch to
+hold it in place.
+
+
+# Issues with
+
 
 # Resources
 
