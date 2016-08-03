@@ -8,6 +8,27 @@ learning to use pogo pins to flash a microcontroller.
 ![KiCAD has a 3D viewer.](spin.gif)
 
 
+# The ISP Pogo Jig
+
+I designed and built a jig to hold pogo pins against the board's ISP
+headers to program the AVR.  In the end, I did not use the jig; it did not
+press the pogo pins against the contacts hard enough to make a solid
+connection.
+
+![Pogo jig render](pogo-jig-render.png)
+
+I found Nick Sayers'
+[AVR ISP Pogo Adapter v0.5](https://oshpark.com/shared_projects/iyo8KOe5)
+on OSH Park and ordered it.  I soldered the pogo pins to two boards 7
+mm apart so the pins would be well aligned.
+
+I use [ecad.io](https://ecad.io) to create STEP files representing the
+boards' geometric shapes.  I imported the boards into Fusion 360,
+modeled a pogo pin, and designed a jig around them.
+
+The [Fusion 360 model is here](http://a360.co/2aq1vVH).  
+
+
 # Resources
 
 [Getting to Blinky 4.0](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q)
