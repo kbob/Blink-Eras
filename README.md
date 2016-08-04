@@ -33,8 +33,14 @@ flip the jig over so the board sits on top, with some kind of latch to
 hold it in place.
 
 
-# Issues with
+# Differences between v1.0 and v1.1
 
+  - Shrink through holes for battery clip.
+  - Eliminate rectangle around "AVR" lettering.
+  - Change "555" and "1971" lettering to get better separation.
+  - Enlarge "CR2032" lettering.
+  - Enlarge presidents' caricatures, just keep the faces.
+  - Increment the silkscreen version number.
 
 # Resources
 
